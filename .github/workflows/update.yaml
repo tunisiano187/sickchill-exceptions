@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: master
       - uses: actions/setup-python@v2
         with:
           python-version: 3.9.x
@@ -30,14 +32,9 @@ jobs:
           branch: update-scene-exceptions
           commit_options: '--no-verify --signoff'
 
-          file_pattern: sickchill_exceptions
-
+          status_options: '--untracked-files=no'
+          
           # Optional commit user and author settings
           commit_user_name: miigotu
           commit_user_email: miigotu@gmail.com
           commit_author: miigotu <miigotu@gmail.com>
-
-          push_options: '--force'
-          skip_dirty_check: true
-          skip_fetch: true
-          disable_globbing: true
