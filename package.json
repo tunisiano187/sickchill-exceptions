@@ -1,0 +1,16 @@
+{
+  "name": "sickchill-scene-exceptions",
+  "version": "0.0.1",
+  "description": "Tool to generate combined json of scene exceptions for shows and seasons for sickchill",
+  "main": "''",
+  "repository": "https://github.com/SickChill/sickchill-exceptions",
+  "author": "Dustyn Gibson",
+  "license": "GPLv3",
+  "private": true,
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "xo": "^0.40.3",
+    "yarn": "^1.22.10",
+    "yarn-minify": "^1.0.1"
+  }
+}
