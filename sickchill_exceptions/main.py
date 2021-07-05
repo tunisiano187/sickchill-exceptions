@@ -22,7 +22,7 @@ class Updater:
             if instance.name in settings.sources:
                 instance.run()
 
-    write_json(settings.output_file, settings.main_list, ugly=False)
+        write_json(settings.output_file.parent, settings.main_list, ugly=False)
 
 
 if __name__ == "__main__":

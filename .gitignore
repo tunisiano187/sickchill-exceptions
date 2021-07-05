@@ -19,3 +19,6 @@ node_modules
 .coverage
 coverage.xml
 *_cache.sqlite
+
+.idea
+__pycache__

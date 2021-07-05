@@ -76,7 +76,7 @@ class CustomArgumentParser(argparse.ArgumentParser):
             epilog=f"""
                     Scene and season exceptions will be read from: {caller.output_file} and each plugin.
                     Raw data will be stored in {caller.raw_data_dir}
-                    Scene and season exceptions will be stored in: {caller.output_file.with_suffix('.min.json')}
+                    Scene and season exceptions output will be stored in: {caller.output_file.parent.with_suffix('.min.json')}
                 """,
             description=caller.__doc__,
             formatter_class=argparse.RawTextHelpFormatter,
