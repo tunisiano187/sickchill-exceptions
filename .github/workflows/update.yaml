@@ -31,7 +31,7 @@ jobs:
           key: pip-${{ hashFiles('**/pyproject.toml') }}
           restore-keys: |
             pip-
-      - name: Run image
+      - name: Set up poetry
         uses: abatilo/actions-poetry@v2.0.0
         with:
           poetry-version: 1.2.0a1
@@ -40,6 +40,8 @@ jobs:
           pip install poethepoet
           poetry install
           poe poetry_update
+          git push origin :update-scene-exceptions || /bin/true
+          git checkout -b update-scene-exceptions
           poe run
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
