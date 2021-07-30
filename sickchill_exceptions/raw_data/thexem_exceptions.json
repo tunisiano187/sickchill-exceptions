@@ -2208,10 +2208,13 @@
     "271591": {
       "-1": [
         "Yami Shibai - Japanese Ghost Stories",
-        "Yamishibai: Japanese Ghost Stories"
+        "Yamishibai: Japanese Ghost Stories",
+        "Yami Shibai"
       ],
       "1": [
-        "Yami Shibai"
+        "Yami Shibai",
+        "Yami Shibai - Japanese Ghost Stories",
+        "Yamishibai: Japanese Ghost Stories"
       ],
       "2": [
         "Yami Shibai 2",
@@ -2235,11 +2238,18 @@
       ],
       "6": [
         "Yami Shibai - Japanese Ghost Stories 6",
-        "Yami Shibai 6"
+        "Yami Shibai 6",
+        "Yamishibai: Japanese Ghost Stories 6"
       ],
       "7": [
         "Yami Shibai - Japanese Ghost Stories 7",
-        "Yami Shibai 7"
+        "Yami Shibai 7",
+        "Yamishibai: Japanese Ghost Stories 7"
+      ],
+      "8": [
+        "Yami Shibai 8",
+        "Yami Shibai - Japanese Ghost Stories 8",
+        "Yamishibai: Japanese Ghost Stories 8"
       ]
     },
     "271687": {
@@ -4118,11 +4128,6 @@
         "Itoshi no Muuco"
       ]
     },
-    "302703": {
-      "-1": [
-        "Dr. Dee: Alaska Vet"
-      ]
-    },
     "303067": {
       "-1": [
         "Norn9: Norn + Nonette",
@@ -5134,15 +5139,11 @@
     },
     "326270": {
       "-1": [
-        "The King's Avatar"
-      ],
-      "1": [
-        "Quan Zhi Gao Shou",
-        "The King's Avatar"
+        "The King's Avatar",
+        "Quan Zhi Gao Shou"
       ],
       "2": [
-        "Quanzhi Gaoshou 2",
-        "The King's Avatar 2"
+        "Quanzhi Gaoshou 2"
       ]
     },
     "326336": {
@@ -5512,6 +5513,14 @@
         "Frankenstein Family: Creatures Family Days"
       ]
     },
+    "333239": {
+      "-1": [
+        "TsukiPro the Animation"
+      ],
+      "2": [
+        "Tsukipro The Animation S2"
+      ]
+    },
     "333709": {
       "-1": [
         "Juni Taisen: Zodiac War",
@@ -5603,6 +5612,19 @@
         "Maerchen Maedchen",
         "M\u00e4rchen M\u00e4dchen",
         "Marchen Madchen"
+      ]
+    },
+    "337336": {
+      "-1": [
+        "IDOLiSH7"
+      ],
+      "2": [
+        "IDOLiSH7 S2",
+        "IDOLiSH7 - Second Beat!"
+      ],
+      "3": [
+        "IDOLiSH7 S3",
+        "IDOLiSH7 - Third Beat!"
       ]
     },
     "337350": {
@@ -6233,7 +6255,9 @@
       "2": [
         "Tensei Shitara Slime Datta Ken S2",
         "Tensei shitara Slime Datta Ken 2nd Season",
-        "That Time I Got Reincarnated as a Slime Season 2"
+        "That Time I Got Reincarnated as a Slime Season 2",
+        "That Time I Got Reincarnated as a Slime Season 2 Part 2 S2",
+        "Tensei Shitara Slime Datta Ken 2nd Season Part 2 S2"
       ]
     },
     "352564": {
@@ -7685,6 +7709,12 @@
         "Kishibe Rohan wa Ugokanai"
       ]
     },
+    "391736": {
+      "-1": [
+        "Battle Game in 5 Seconds",
+        "Deatte 5-Byou de Battle"
+      ]
+    },
     "391883": {
       "-1": [
         "LBX Girls",
@@ -7918,6 +7948,18 @@
         "Uramichi Oniisan"
       ]
     },
+    "401258": {
+      "-1": [
+        "Kageki Shojo!!",
+        "Kageki Shoujo!!"
+      ]
+    },
+    "401856": {
+      "-1": [
+        "The Idaten Deities Know Only Peace",
+        "Heion Sedai no Idaten-tachi"
+      ]
+    },
     "401911": {
       "-1": [
         "The Great Jahy Will Not Be Defeated!",
@@ -7927,7 +7969,7 @@
     "402094": {
       "-1": [
         "Drug Store in Another World: The Slow Life of a Cheat Pharmacist",
-        "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore"
+        "Cheat Kusushi no Slow Life - Isekai ni Tsukurou Drugstore"
       ]
     },
     "70668": {
