@@ -34,7 +34,7 @@ jobs:
       - name: Set up poetry
         uses: abatilo/actions-poetry@v2.0.0
         with:
-          poetry-version: 1.2.0a1
+          poetry-version: 1.1.8
       - name: Run exception updater.
         run: |
           pip install poethepoet
